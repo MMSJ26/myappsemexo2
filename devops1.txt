@@ -6,7 +6,7 @@ This is devops training
 
 7pm batch
 
-Welcome 
+Welcome for the git session. 
 
 Regards
 Sunil
